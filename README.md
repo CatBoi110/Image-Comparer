@@ -12,5 +12,5 @@ Install:
 How to use:
   1. Run the .py file in a command prompt or terminal 
   2. Select the options: Start or Settings 
-  * 2a. Start runs the program and prompts the user for input
-  * 2b. Settings allows the user to change various settings such as changing the color of the displayed images or changing what parts of the images are         highlighted 
+   2a. Start runs the program and prompts the user for input
+   2b. Settings allows the user to change various settings such as changing the color of the displayed images or changing what parts of the images are         highlighted 

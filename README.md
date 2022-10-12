@@ -1,5 +1,8 @@
 # Image-Comparer
 
+What this program is about?
+  * This simple python program can compare two image files and can display the differences between the two images in an interactive window 
+ 
 Install:
 1. Download "Image_Comparer.py" file and the "config.txt" file
 2. Place both files in a new folder 

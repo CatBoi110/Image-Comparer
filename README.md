@@ -29,4 +29,4 @@
   6. To close the program either press any key or click on the close button on the window.
 
 
-**Photos:**
+## **Photos:**

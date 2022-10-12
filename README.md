@@ -1,17 +1,25 @@
-# Image-Comparer
+# Image Comparer
 
 What this program is about?
   * This simple python program can compare two image files and can display the differences between the two images in an interactive window 
  
-Install:
+**Install**:
   1. Download "Image_Comparer.py" file and the "config.txt" file
   2. Place both files in a new folder 
   3. Ensure all libraries are installed from the "requirements.txt" file.
-     3a. If not type "pip install -r requirements.txt" to install the required python libraries.
-     3b If all the libraries are installed then the program can be ran.
+     - If not type '''pip install -r requirements.txt''' to install the required python libraries.
+     - If all the libraries are installed then the program can be ran.
 
-How to use:
+**How to use**:
   1. Run the .py file in a command prompt or terminal 
   2. Select the options: Start or Settings 
-    2a. Start runs the program and prompts the user for input
-    2b. Settings allows the user to change various settings such as changing the color of the displayed images or changing what parts of the images are         highlighted 
+    - Start runs the program and prompts the user for input
+    - Settings allows the user to change various settings such as changing the color of the displayed images or changing what parts of the images are         highlighted 
+  3. Once the program is ran it will ask for the file path of two image files. Files can be either draged and droped into the command line or the file path for the images can be typed in.
+   ** Important: **
+   - **Both images must be of the same resolution or the program will be unable to display the 2 images side by side.**
+   - **The program can still compare the images in text only mode.**
+   
+  5. The program will scan both images and compare the images. This process may take a few minutes, depending on the resoultion of the selected images.
+  6. Once the program is finished comparing the images it will display an interactive window with both of the images side by side. The 2nd image will have a color filter applied to highlight the sections that differ from the source image.
+  7. To close the program either press any key or click on the close button on the window.

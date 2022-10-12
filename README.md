@@ -1,9 +1,9 @@
 # Image Comparer
 
-What this program is about?
+## **What this program is about?**
   * This simple python program can compare two image files and can display the differences between the two images in an interactive window 
  
-**Install:**
+## **Install:**
   1. Download "Image_Comparer.py" file and the "config.txt" file
   2. Place both files in a new folder 
   3. Ensure all libraries are installed from the "requirements.txt" file.
@@ -11,7 +11,7 @@ What this program is about?
      - If all the libraries are installed then the program can be ran.
 
 
-**How to use:**
+## **How to use:**
   1. Run the .py file in a command prompt or terminal 
  
   2. Select the options: Start or Settings 
